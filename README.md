@@ -1,10 +1,6 @@
-# Study Abroad Landing Page
-This landing page designed for the study abroad company
+# Landing Page Executive Study Abroad
+Landing page com base em um design free encontrado no [Dribbble](https://dribbble.com/).
+![](./screenshot.png)
 
-## Built With:
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Front-end component library
-* [Sass](https://sass-lang.com/documentation) - CSS extension language
-
-## Preview
-[Click here](https://narziz.github.io/Study-Abroad-LandingPage/) to see preview.
-
+Design por **Atiqur Rahaman** <br>
+[Executive Study Landing Page Free Sketch File](https://dribbble.com/shots/14129356-Executive-Study-Landing-Page-Free-Sketch-File)
