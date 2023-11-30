@@ -1,5 +1,5 @@
 # Study Abroad Landing Page
-This landing page designed for the study abroad company
+This landing page designed for the study and work abroad company
 
 ## Built With:
 * [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Front-end component library
